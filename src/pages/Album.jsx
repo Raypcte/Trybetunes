@@ -40,6 +40,8 @@ render() {
                 key={ som.trackName }
                 trackName={ som.trackName }
                 previewUrl={ som.previewUrl }
+                trackId={ som.trackId }
+                som={ som }
               />
             ))
         }

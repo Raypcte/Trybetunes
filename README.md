@@ -1,10 +1,5 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# README  Trybetunes 
+
+- Você vai desenvolver uma aplicação que permita pesquisar e listar álbuns e músicas de bandas e artistas, além de ser possível executar o preview e favoritar suas músicas preferidas. Dessa forma, você estará colocando em prática os conceitos de **React Router** e **lifecycle-methods**.
+
+
